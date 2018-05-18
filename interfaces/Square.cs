@@ -3,8 +3,12 @@ namespace interfaces
 {
     public class Square
     {
-        public Square()
+		double length;
+
+        // overloaded constructor
+		public Square(double length)
         {
+			this.length = length;
         }
     }
 }
