@@ -1,0 +1,11 @@
+/Users/loudelat/Projects/interfaces/interfaces/bin/Debug/netcoreapp2.0/interfaces.deps.json
+/Users/loudelat/Projects/interfaces/interfaces/bin/Debug/netcoreapp2.0/interfaces.runtimeconfig.json
+/Users/loudelat/Projects/interfaces/interfaces/bin/Debug/netcoreapp2.0/interfaces.runtimeconfig.dev.json
+/Users/loudelat/Projects/interfaces/interfaces/bin/Debug/netcoreapp2.0/interfaces.dll
+/Users/loudelat/Projects/interfaces/interfaces/bin/Debug/netcoreapp2.0/interfaces.pdb
+/Users/loudelat/Projects/interfaces/interfaces/obj/Debug/netcoreapp2.0/interfaces.csprojResolveAssemblyReference.cache
+/Users/loudelat/Projects/interfaces/interfaces/obj/Debug/netcoreapp2.0/interfaces.csproj.CoreCompileInputs.cache
+/Users/loudelat/Projects/interfaces/interfaces/obj/Debug/netcoreapp2.0/interfaces.AssemblyInfoInputs.cache
+/Users/loudelat/Projects/interfaces/interfaces/obj/Debug/netcoreapp2.0/interfaces.AssemblyInfo.cs
+/Users/loudelat/Projects/interfaces/interfaces/obj/Debug/netcoreapp2.0/interfaces.dll
+/Users/loudelat/Projects/interfaces/interfaces/obj/Debug/netcoreapp2.0/interfaces.pdb

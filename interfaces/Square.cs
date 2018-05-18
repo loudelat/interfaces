@@ -1,7 +1,7 @@
 ﻿using System;
 namespace interfaces
 {
-    public class Square
+	public class Square : Shape
     {
 		double length;
 
@@ -10,5 +10,12 @@ namespace interfaces
         {
 			this.length = length;
         }
+
+        // interface method
+        public double area()
+		{
+			// area = length * length
+			return length * length;
+		}
     }
 }
